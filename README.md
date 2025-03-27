@@ -14,6 +14,18 @@ Pookie Bites is a **delightful web-based restaurant experience** designed to mak
 
 ---  
 
+## 📸 Screenshots  
+### Homepage 🏡  
+![Homepage Preview](screenshots/homepage.png)  
+
+### Menu Section 🍕  
+![Menu Preview](screenshots/menu.png)  
+
+### Contact Page 📞  
+![Contact Preview](screenshots/contact.png)  
+
+---  
+
 ## 📂 Project Structure  
 ```
 POOKIE BITES/
