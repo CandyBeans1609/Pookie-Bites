@@ -1,4 +1,4 @@
-# 🐻🍓 Pookie Bites 🍕🍔  
+# 🐻🍓 Pookie Bites 🎀🎀 
 Welcome to **Pookie Bites** – where every bite feels like a warm hug! 🥰✨  
 
 ## 🍽 About Pookie Bites  
@@ -28,14 +28,20 @@ Pookie Bites is a **delightful web-based restaurant experience** designed to mak
 
 ## 📂 Project Structure  
 ```
-POOKIE BITES/
-├── index.html               # Main webpage
-├── styles.css               # Styling for the website
-├── pookie.png               # Adorable Pookie image
-├── pookiebites.png          # Pookie Bites branding image
-├── pookielogo3.png          # Logo for Pookie Bites
+POOKIE-BITES/
+├── assets/                   # Static assets
+│   ├── pookie.png            # Adorable Pookie image
+│   ├── pookiebites.png       # Pookie Bites branding image
+│   ├── pookielogo3.png       # Logo for Pookie Bites
+├── screenshots/              # Folder for website screenshots
+│   ├── homepage.png          # Homepage preview
+│   ├── menu.png              # Menu section preview
+│   ├── contact.png           # Contact page preview
+├── .gitattributes            # Git configuration
+├── index.html                # Main webpage
+├── README.md                 # Project documentation
+├── styles.css                # Styling for the website
 ```
-
 ---  
 
 ## 📝 Installation & Usage  
